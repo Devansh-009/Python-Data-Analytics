@@ -19,3 +19,10 @@ for i in range(11,3,-1):
     lt(360//8)
 hideturtle()
 mainloop()             
+
+
+#function types
+# function with no argument and no return
+# function with return value but no argument 
+# function with argument and no return 
+# function with return value and parameters
