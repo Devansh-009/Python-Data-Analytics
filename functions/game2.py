@@ -36,7 +36,7 @@ def on_coin_collect():
     if p.colliderect(c):
         c.x = randint(50,WIDTH-50)
         c.y = randint(50,HEIGHT-50)
-        sounds.arrow.play()ddddddd
+        sounds.arrow.play()
         speed +=1
 
 def draw():
