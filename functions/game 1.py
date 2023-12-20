@@ -2,7 +2,7 @@ import pgzrun
 from random import randint
 WIDTH = 500
 HEIGHT = 500
-alien = Actor('OIP.jpeg', pos=(WIDTH//2, HEIGHT//2))
+alien = Actor('oip.jpeg', pos=(WIDTH//2, HEIGHT//2))
 alien.pos = (400, 50)
 box = Rect((20, 20), (100, 100))
 
